@@ -1,5 +1,4 @@
 body {
-  background: url("https://ca.slack-edge.com/T4WCDF2P6-U5A823VK2-gafb6ed6a1f2-1024") top left;
   background-size: 9.2%;
   padding: 1rem;
 }
@@ -52,22 +51,17 @@ dl:nth-of-type(even) {
 }
 
 button{
- background-size: 100%;
+  background-color: green;
   color: purple;
   font-size: 24pt;
   border-width: 8px 8px;
   vertical-align: top;
-  height: 150px;
-  width: 150px;
+  height: 50px;
+  width: 120px;
 }
 
 label{
   color: aqua;
   font-size: 18pt;
   
-}
-
-.details{
-  color: white;
-  background-color: black;
 }
