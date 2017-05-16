@@ -1,0 +1,73 @@
+body {
+  background: url("https://ca.slack-edge.com/T4WCDF2P6-U5A823VK2-gafb6ed6a1f2-1024") top left;
+  background-size: 9.2%;
+  padding: 1rem;
+}
+
+section > div {
+  width: 80%;
+  margin: 20px auto;
+}
+
+form {
+  margin-top: 50px;
+}
+
+dl {
+  padding: 15px 10px;
+}
+
+dl > li {
+  list-style: none;
+}
+
+dt, dd {
+  display: inline-block;
+  vertical-align: top;
+  width: 48%;
+}
+
+dl:nth-of-type(even) {
+  background-color: WhiteSmoke;
+}
+
+@media (min-width: 700px) {
+  section > div {
+    width: 60%;
+  }
+}
+
+@media (min-width: 900px) {
+  section > div {
+    float: left;
+    margin: 20px 5%;
+    width: 40%;
+  }
+
+  section::after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+}
+
+button{
+ background-size: 100%;
+  color: purple;
+  font-size: 24pt;
+  border-width: 8px 8px;
+  vertical-align: top;
+  height: 150px;
+  width: 150px;
+}
+
+label{
+  color: aqua;
+  font-size: 18pt;
+  
+}
+
+.details{
+  color: white;
+  background-color: black;
+}
