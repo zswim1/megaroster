@@ -1,5 +1,6 @@
 body {
-  background-size: 9.2%;
+  background-image: url('https://ca.slack-edge.com/T4WCDF2P6-U5A823VK2-gafb6ed6a1f2-1024'), url("http://www.fretless.com/wp-content/uploads/2017/02/AAEAAQAAAAAAAAOqAAAAJDdjNDYxM2NhLWYwMjktNDlmOS1iZjZjLTgwYTQwOWFiN2EwNQ.jpg");
+  background-size: 10%;
   padding: 1rem;
 }
 
